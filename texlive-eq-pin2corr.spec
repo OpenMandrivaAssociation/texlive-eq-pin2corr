@@ -1,6 +1,6 @@
 Name:		texlive-eq-pin2corr
 Version:	59477
-Release:	1
+Release:	2
 Summary:	Add PIN security to the "Correct" button of a quiz created by exerquiz
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eq-pin2corr
