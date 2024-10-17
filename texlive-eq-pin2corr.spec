@@ -3,7 +3,7 @@ Version:	59477
 Release:	2
 Summary:	Add PIN security to the "Correct" button of a quiz created by exerquiz
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eq-pin2corr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/eq-pin2corr
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eq-pin2corr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eq-pin2corr.doc.r%{version}.tar.xz
